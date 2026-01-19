@@ -4,7 +4,7 @@
 
 // IMPORTANT: Store your Gemini API Key here.
 // For better security in a production environment, consider loading this from an environment variable.
-define('GEMINI_API_KEY', 'AIzaSyBLl6EIPOqeM4FZk_jkOpMTIpG2zTb_5Ps');
+define('GEMINI_API_KEY', 'YOUR_API_KEY');
 
 // Gemini API Endpoint
 define('GEMINI_API_URL', 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=' . GEMINI_API_KEY);
