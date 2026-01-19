@@ -1,20 +1,70 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Smart Trip Planner (AI Powered) 🌍
 
-# Run and deploy your AI Studio app
+Smart Trip Planner is a full-stack AI-powered web application that generates
+personalized travel itineraries using Google Gemini AI.
 
-This contains everything you need to run your app locally.
+This project was built as an **internship-ready project** to demonstrate
+full-stack development, backend logic, and AI integration.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1X5_Wyu8I_0dtalJotZ2a0Qd6vUER90_L
+---
 
-## Run Locally
+## 🚀 Features
+- AI-generated trip plans
+- User authentication (Login & Register)
+- Trip planning, saving, and sharing
+- Admin dashboard for managing trips, users, and destinations
+- Download trip plans
+- Clean and modular project structure
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React (TypeScript)
+
+### Backend
+- PHP
+- Google Gemini AI API
+
+---
+
+## 🔐 Security Note
+API keys and sensitive credentials are **not included** in this public
+repository for security reasons.
+
+---
+
+## 🌐 Why no live demo?
+This project requires:
+- PHP backend server
+- React + TypeScript build tools
+- AI API integration
+
+GitHub Pages does not support this environment.
+Therefore, the **complete source code is provided instead**, which is
+acceptable for internship evaluation.
+
+---
+
+## 📸 Screenshots
+(Screenshots will be added here)
+
+---
+
+## ▶️ How to Run Locally
+1. Install **XAMPP / WAMP**
+2. Place the project folder inside `htdocs`
+3. Add your Gemini API key in `gemini.php`
+4. Start Apache server
+5. Open `http://localhost/smart-trip-planner-ai`
+
+---
+
+## 👨‍💻 Author
+**Soham**  
+Computer Engineering Student  
+India
