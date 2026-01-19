@@ -1,0 +1,5 @@
+{
+  "name": "Smart Trip Planner (AI Powered)",
+  "description": "An AI-powered web application that automatically generates a complete trip plan based on user's destination, duration, and budget. It provides a detailed day-by-day itinerary, including places to visit, food recommendations, and travel tips.",
+  "requestFramePermissions": []
+}
