@@ -81,6 +81,6 @@ acceptable for internship evaluation.
 ---
 
 ## 👨‍💻 Author
-**Soham**  
+**Soham Bhalekar**  
 Computer Engineering Student  
 India
