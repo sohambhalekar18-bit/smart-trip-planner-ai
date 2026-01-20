@@ -51,8 +51,24 @@ acceptable for internship evaluation.
 ---
 
 ## 📸 Screenshots
-(Screenshots will be added here)
 
+### 🔐 Login Page
+![Login Page](screenshots/login.png)
+
+### 🏠 Home / Destinations
+![Home Page](screenshots/home.png)
+
+### 🧭 Plan Trip
+![Plan Trip](screenshots/plan-trip.png)
+
+### 📊 Trip Result
+![Trip Result](screenshots/trip-result.png)
+
+### 🗺️ Map View
+![Map View](screenshots/map-view.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
 ---
 
 ## ▶️ How to Run Locally
